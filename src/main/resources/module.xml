@@ -1,0 +1,9 @@
+<CristalModule ns="tg" name="p5">
+	<Info>
+		<Description>CRISTAL Module</Description>
+		<Version>${version}</Version>
+	</Info>
+	<ResourceURL>t/resources/</ResourceURL>
+    <Config name="Module.debug">true</Config>
+	<Imports/>
+</CristalModule>
